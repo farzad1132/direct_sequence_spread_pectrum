@@ -3,11 +3,11 @@
 
 **July 2020**
 
-In this projectwe are assuming that a ***single user*** wants to transmit an arbitrary bit stream through an ***AWGN Channel*** using ***QPSK*** modulation and ***CDMA*** thechnique as multiple access scheme.
+In this project we are assuming that a ***single user*** wants to transmit an arbitrary bitstream through an ***AWGN Channel*** using ***QPSK*** modulation and ***CDMA*** technique as multiple access scheme.
 
-Also at the receiver we have ***Coherent Correlation Detector***.
+Also at the receiver, we have ***Coherent Correlation Detector***.
 
-I recommend reading [report](/Report.pdf) file in the project for more detail and instructuns.
+I recommend reading [report](/Report.pdf) file in the project for more detail and instructions.
 
 ## Components:
 - Polar NRZ Line Coding function
