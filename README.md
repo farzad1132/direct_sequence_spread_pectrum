@@ -7,7 +7,7 @@ In this projectwe are assuming that a ***single user*** wants to transmit an arb
 
 Also at the receiver we have ***Coherent Correlation Detector***.
 
-I recommend reading report file in the project for more detail and instructuns.
+I recommend reading [report](/Report.pdf) file in the project for more detail and instructuns.
 
 ## Components:
 - Polar NRZ Line Coding function
